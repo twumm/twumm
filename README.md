@@ -10,9 +10,6 @@ I am a software engineer with experience in building web applications using Java
 
 I enjoy following start-ups and creating value in/for whatever I do, while also staying committed to lifelong learning and development.
 
-* ✉️  You can contact me at [martint.mensah@gmail.com](mailto:martint.mensah@gmail.com)
-* 🧠  I'm learning Data structures and algorithms
-
 ### Skills
 
 
